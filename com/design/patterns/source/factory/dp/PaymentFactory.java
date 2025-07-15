@@ -1,4 +1,4 @@
-package com.design.patterns.source;
+package com.design.patterns.source.factory.dp;
 
 public class PaymentFactory {
     public static PaymentService getPaymentService(String paymentType){

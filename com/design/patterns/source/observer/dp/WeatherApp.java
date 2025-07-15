@@ -1,4 +1,4 @@
-package com.design.patterns.source;
+package com.design.patterns.source.observer.dp;
 
 public class WeatherApp {
     public static void main(String[] args) {

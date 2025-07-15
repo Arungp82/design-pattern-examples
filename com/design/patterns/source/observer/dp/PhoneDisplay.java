@@ -1,6 +1,8 @@
-package com.design.patterns.source;
+package com.design.patterns.source.observer.dp;
 
-public class PhoneDisplay implements Observer{
+import com.design.patterns.source.observer.dp.Observer;
+
+public class PhoneDisplay implements Observer {
     private String weather;
 
     @Override

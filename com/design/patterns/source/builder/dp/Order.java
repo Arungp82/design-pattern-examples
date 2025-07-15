@@ -1,4 +1,4 @@
-package com.design.patterns.source;
+package com.design.patterns.source.builder.dp;
 
 public class Order {
     private final Integer orderId;

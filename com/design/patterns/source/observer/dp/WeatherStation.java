@@ -1,9 +1,9 @@
-package com.design.patterns.source;
+package com.design.patterns.source.observer.dp;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class WeatherStation implements Subject{
+public class WeatherStation implements Subject {
     private List<Observer> observers = new ArrayList<>();
     private String weather;
 

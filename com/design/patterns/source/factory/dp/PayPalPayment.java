@@ -1,4 +1,6 @@
-package com.design.patterns.source;
+package com.design.patterns.source.factory.dp;
+
+import com.design.patterns.source.factory.dp.PaymentService;
 
 public class PayPalPayment implements PaymentService {
 

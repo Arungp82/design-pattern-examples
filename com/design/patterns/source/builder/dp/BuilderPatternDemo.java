@@ -1,4 +1,4 @@
-package com.design.patterns.source;
+package com.design.patterns.source.builder.dp;
 
 public class BuilderPatternDemo {
     public static void main(String[] args) {
