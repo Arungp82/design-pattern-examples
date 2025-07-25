@@ -8,11 +8,11 @@ public class Order {
     private final Double orderAmount;
 
     private Order(Builder builder) {
-this.orderId=builder.orderId;
-this.orderName=builder.orderName;
-this.shippingAddress=builder.shippingAddress;
-this.orderEmail=builder.orderEmail;
-this.orderAmount=builder.orderAmount;
+        this.orderId = builder.orderId;
+        this.orderName = builder.orderName;
+        this.shippingAddress = builder.shippingAddress;
+        this.orderEmail = builder.orderEmail;
+        this.orderAmount = builder.orderAmount;
     }
 
     public Integer getOrderId() {
